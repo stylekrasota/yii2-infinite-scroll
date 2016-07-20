@@ -5,6 +5,7 @@ namespace darkcs\infinitescroll;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Json;
 use yii\widgets\LinkPager;
+use yii\helpers\Html;
 
 class InfiniteScrollPager extends LinkPager
 {
